@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="790bc8c7-1606-4fa3-b0d0-03b6d3588dc0" name="Changes" comment="20210926">
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author/Yuna/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/author/Yuna/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/board/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curriculum/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/curriculum/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gettysburg-address.html" beforeDir="false" afterPath="$PROJECT_DIR$/gettysburg-address.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="790bc8c7-1606-4fa3-b0d0-03b6d3588dc0" name="Changes" comment="20210926" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1632638721045</updated>
       <workItem from="1632638722139" duration="861000" />
+      <workItem from="1632639595078" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="20210926">
       <created>1632639063416</created>
@@ -49,7 +42,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632639063416</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20210926">
+      <created>1632639614926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632639614926</updated>
+    </task>
+    <task id="LOCAL-00003" summary="20210926">
+      <created>1632639621936</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632639621936</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +72,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20210926" />
